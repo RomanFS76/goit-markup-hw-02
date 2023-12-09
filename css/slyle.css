@@ -4,8 +4,21 @@ body {
   background-color: White;
 }
 
-/* .nav {
-} */
+/* COMMON styles------------------------------------------------------------- */
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.container {
+  
+}
+
+
+/* .nav {} */
 
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -17,20 +30,9 @@ body {
   color: #4d5ae5;
 }
 
-
-
-.link {
-  text-decoration: none;
-}
-
-.list {
-  list-style: none;
-}
-
 .text {
   letter-spacing: 0.32px;
   line-height: 1.5;
-  color: #434455;
 }
 
 .primary-title {
@@ -60,7 +62,7 @@ body {
   color: #2e2f42;
 }
 
-/* HEADER */
+/* HEADER------------------------------------------------------------- */
 
 .logo-dark {
   color: #2e2f42;
@@ -88,7 +90,7 @@ body {
   color: #404bbf;
 }
 
-/* SERVICE */
+/* SERVICE------------------------------------------------------------- */
 
 .service {
   background-color: #2e2f42;
@@ -108,7 +110,7 @@ body {
   background-color: #404bbf;
 }
 
-/* OUR TEAM */
+/* OUR TEAM------------------------------------------------------------- */
 .ourteam {
   background-color: #f4f4fd;
 }
@@ -121,7 +123,7 @@ body {
     background-color: #FFFFFF;
 }
 
-/* FOOTER */
+/* FOOTER------------------------------------------------------------- */
 .footer {
   background-color: #2e2f42;
 }
